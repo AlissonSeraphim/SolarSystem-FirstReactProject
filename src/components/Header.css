@@ -1,0 +1,10 @@
+.bigTitle {
+    font-size: 35px;
+    font-weight: 600;
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px #aea6b7, 0px 0px 10px #d5d4d7, 0px 0px 10px #988ca4,
+      0px 0px 20px #2d478f;
+      opacity: 0.85;
+      display: flex;
+      justify-content: center;
+}
