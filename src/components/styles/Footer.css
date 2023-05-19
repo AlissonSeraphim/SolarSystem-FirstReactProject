@@ -1,0 +1,11 @@
+.footerClass {
+  color: white;
+  display: flex;
+  font-family: Source Sans Pro , sans-serif;
+  font-size: 30px;
+  font-style: oblique;
+  justify-content: flex-end;
+  line-height: 1px;
+  margin: 3rem 1rem;
+  text-shadow: 0 0 5px #aea6b7 , 0 0 10px #d5d4d7 , 0 0 10px #988ca4 , 0 0 20px #2d478f;
+}

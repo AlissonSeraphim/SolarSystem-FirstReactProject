@@ -1,0 +1,12 @@
+.title {
+  color: white;
+  display: flex;
+  font-family: Source Sans Pro , sans-serif;
+  font-size: 35px;
+  font-style: oblique;
+  font-weight: 400;
+  justify-content: center;
+  line-height: 32px;
+  margin: 4rem 0;
+  text-shadow: 6px 2px 5px rgba(15, 60, 128, 0.96);
+}
